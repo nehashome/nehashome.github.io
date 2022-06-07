@@ -19,7 +19,7 @@ a{
     box-sizing: border-box;
     background-color: #edf1fd;
     position: relative;
-    background-image: url("https://w7.pngwing.com/pngs/584/126/png-transparent-circle-sky-float-ball-blue-text-computer.png");
+    background-image: url("https://lh3.googleusercontent.com/oKO43Y5m6E341X8qA5ueOqmSW8Kxs-BRSFM3_4x7-aLzh_VXtIpXFeJcrJv0ZLfRCk83uKNYwfSzdaKK3jRtsH-VYfzJbrd3yyyf_GRMByXQG4PJyXMb2b1Bktv-1Pu7TUUpDT5NXAbv6hLcDDAIcuujBtP6ke6pVT_YiPBkfzOJqKU6LybVitfN5X9dzlviCnlEGX45UttIj80CJrNOBViIZ-BZCZb3httqBuy95wnvFtZA9QBD020q0nEurA93gzAm5Mzq0jPV6kU0T6XtJ_5HZSllsJ3oNKmJJ_GN91dtVkZZHp9lusI9pIh8nGlrPGkDp6WpQYk3WeJdhA3iTueo9TchO6L6-ZcKVIqhTB624QmegAQvhpN_0wFJjM9NTdMqdbG-KFnEj8aOhqRbh7TBOvlb2fM6-k4A2I9Aqbk5GyTTWCTnPyNu8EgO5_QFtJlz-UG4w1F3TGc0XfnJa6nHzNGsGqrC6n468CQ8a_slYMnpdtFHJMuA5MZyXhzAHo-lzqJyf-wLIwmq2pb7QanME-JFuN-5WTUWvJGvsmdRkXGwOI0KWBrr8LCILiVPm11grTk55k0fITucV7ggs3Z-FPHMUj4OLLqcnGCWHL7xsqPars8_dMtNqXEtkM1gO2BN0ZsprfMpErTIZb9Dpk4FjkKFVEWsMJPVgdKRy73mt7ut1Ps_Po_7b9V8mbExHcF4kTfvoc816Jk7VfL1G7-n_aW4moSIEhyD3gE7rcpuYKghkNVrL16DBA3nHN5x4H1213HwaTtrOs6xX8qjIX2J8f3pf30-IsA=w395-h220-no?authuser=0");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right bottom;
@@ -71,6 +71,18 @@ nav{
     top: 50%;
     transform: translate(-20%, -50%);
 
+}
+.name p:nth-chile(1),
+.name .details{
+    color:black;
+    font-size: 16px;
+}
+.name h1{
+    font-family: calibri;
+    font-size: 40px;
+    margin:0px;
+    letter-spacing: 3px;
+   
 }
 
 .arrow{
